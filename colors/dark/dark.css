@@ -1,0 +1,16 @@
+/* Old zeaks.org style */
+
+pre.snippet-code {
+	font-family:Consolas,Monaco,"Courier New",Courier,monospace !important;
+	font-size: 12px !important;
+	line-height: 1.3em !important;
+	color: #efefef !important;
+    background: none repeat scroll 0 0 #333 !important;
+	margin-bottom: 22px !important;
+	padding: 11px !important;
+	white-space: pre-wrap !important;
+	overflow-x: auto !important;
+	word-wrap: break-word !important;
+    border: 4px solid #ddd !important;
+
+}

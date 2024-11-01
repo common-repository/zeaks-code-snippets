@@ -1,0 +1,18 @@
+/* New zeaks.org style */
+pre.snippet-code {
+	font-family: Consolas,Monaco,"Courier New",Courier,monospace !important;
+	font-size: 12px !important;
+	line-height: 1.3em !important;
+	color: #000000 !important;
+	background: none repeat scroll 0 0 #E0ECF8 ;
+	margin-bottom: 22px !important;
+	padding: 11px !important;
+	white-space: pre-wrap !important;
+	overflow-x: auto !important;
+	word-wrap: break-word !important;
+	border: 8px solid #2B2B33 !important ;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px;
+}
+

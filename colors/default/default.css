@@ -1,0 +1,18 @@
+/* Default style */
+
+pre.snippet-code {
+	font-family:Consolas,Monaco,"Courier New",Courier,monospace !important;
+	font-size: 12px !important;
+	line-height: 1.3em !important;
+	color: #000000 !important;
+    background: none repeat scroll 0 0 #eee !important;
+	margin-bottom: 22px !important;
+	padding: 11px !important;
+	white-space: pre-wrap !important;
+	overflow-x: auto !important;
+	word-wrap: break-word !important;
+    border: 1px solid #ddd !important;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+}
